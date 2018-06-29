@@ -1,0 +1,68 @@
+p {
+  margin: 1.75em 0;
+}
+
+#revue-embed {
+  background: #f9f9f9;
+  border: solid 1px #d1d1d1;
+  font-size: 16px;
+  line-height: 1.6em;
+  padding: 5%;
+  text-align: center;
+  width: 100%;
+}
+
+#revue-embed h3 {
+  color: #666;
+  margin: 0px 0px 10px;
+  font-size: 22px;
+  font-weight: bold;
+}
+
+#revue-embed strong {
+  font-weight: bold;
+}
+
+#revue-embed #revue-form {
+  display: flex;
+}
+
+#revue-embed input[type="email"] {
+  font-size: 18px;
+  padding: 10px 8px;
+  width: 68%;
+  border: 1px solid #d6d6d6;
+  -moz-border-radius: 3px;
+  -webkit-border-radius: 3px;
+  border-radius: 3px;
+  background-color: #fff;
+  margin-bottom: 5px;
+  height: auto;
+  margin: 0px;
+  margin-right: 2%;
+  height: 42px;
+}
+
+#revue-embed input[type="submit"]  {
+  width: 100%;
+  color: #fff;
+  margin: 0px;
+  padding: 11px 0px;
+  font-size: 18px;
+  background: #0000ee;
+  -moz-border-radius: 3px;
+  -webkit-border-radius: 3px;
+  border-radius: 3px;
+  cursor: pointer;
+  border: none;
+  text-shadow: none;
+  min-width: 128px;
+  width: 30%;
+  height: 42px;
+}
+
+section.main .content .markdown p {
+  font-size: 1rem;
+  line-height: 1.6em;
+  margin: 1.75em 0;
+}
