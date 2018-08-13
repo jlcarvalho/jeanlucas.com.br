@@ -6,10 +6,20 @@
     <description>Recent content on Jean Lucas de Carvalho</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 10 Aug 2018 03:00:00 -0300</lastBuildDate>
+    <lastBuildDate>Sun, 12 Aug 2018 03:00:00 -0300</lastBuildDate>
     
 	<atom:link href="https://jeanlucas.com.br/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Fortnite e a nova velha forma de distribuição de software</title>
+      <link>https://jeanlucas.com.br/blog/fortnite-e-a-nova-velha-forma-de-distribuicao-de-software/</link>
+      <pubDate>Sun, 12 Aug 2018 03:00:00 -0300</pubDate>
+      
+      <guid>https://jeanlucas.com.br/blog/fortnite-e-a-nova-velha-forma-de-distribuicao-de-software/</guid>
+      <description>Na última edição da newsletter, enquanto eu escrevia o texto para acompanhar o link sobre o modelo de distribuição que a Epic escolheu para distribuir o Fortnite no Android, eu percebi que as poucas linhas por link que eu me limito a escrever na REMIX não seriam suficientes para expressar o quanto essa ação da Epic pode ser importante para o mercado de aplicativos móveis.
+Atualmente a forma padrão de se distribuir aplicativos é através das lojas de aplicativos.</description>
+    </item>
     
     <item>
       <title>Começando sem gastar dinheiro 😎</title>
@@ -18,7 +28,7 @@
       
       <guid>https://jeanlucas.com.br/blog/comecando-sem-gastar-dinheiro/</guid>
       <description>Atualmente não existe uma razão pelo qual uma Startup ou um Indie Maker precise pagar pelos servidores que ele vá utilizar antes de chegar ao ponto onde se faz necessário escalar.
-Google, Facebook, Miscrosoft, IBM, Amazon e vários outras empresas oferecem diversos serviços gratuitos (ou cupons de descontos públicos) para você começar. Eu mesmo uso vários desses serviços de forma gratuita nos meus produtos (Firebase, AWS Lambda, Heroku, Mlab, Redislab, Sendgrid, Cloudflare, só pra citar alguns).</description>
+Google, Facebook, Microsoft, IBM, Amazon e vários outras empresas oferecem diversos serviços gratuitos (ou cupons de descontos públicos) para você começar. Eu mesmo uso vários desses serviços de forma gratuita nos meus produtos (Firebase, AWS Lambda, Heroku, Mlab, Redislab, Sendgrid, Cloudflare, só pra citar alguns).</description>
     </item>
     
     <item>

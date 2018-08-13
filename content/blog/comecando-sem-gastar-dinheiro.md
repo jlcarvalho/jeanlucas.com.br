@@ -7,7 +7,7 @@ slug: "comecando-sem-gastar-dinheiro"
 
 Atualmente não existe uma razão pelo qual uma Startup ou um Indie Maker precise pagar pelos servidores que ele vá utilizar antes de chegar ao ponto onde se faz necessário escalar.
 
-Google, Facebook, Miscrosoft, IBM, Amazon e vários outras empresas oferecem diversos serviços gratuitos (ou cupons de descontos públicos) para você começar. Eu mesmo uso vários desses serviços de forma gratuita nos meus produtos (Firebase, AWS Lambda, Heroku, Mlab, Redislab, Sendgrid, Cloudflare, só pra citar alguns).
+Google, Facebook, Microsoft, IBM, Amazon e vários outras empresas oferecem diversos serviços gratuitos (ou cupons de descontos públicos) para você começar. Eu mesmo uso vários desses serviços de forma gratuita nos meus produtos (Firebase, AWS Lambda, Heroku, Mlab, Redislab, Sendgrid, Cloudflare, só pra citar alguns).
 
 Algumas dessas empresas, além de possuir planos gratuitos, também oferecem programas específicos para Startups, que ajudam muito quem está começando. Eu mesmo, por meio do [Mini Receitas](https://play.google.com/store/apps/details?id=br.com.jeanlucas.apps.microreceitas), já usufruí do [fbStart](https://developers.facebook.com/fbstart/) e nesse artigo vou listar algumas das opções disponíveis por aí.
 
