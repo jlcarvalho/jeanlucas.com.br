@@ -17,11 +17,11 @@ DefaultContentLanguage = "pt"
 [permalinks]
 blog  = "blog/:slug/"
 
-# [[menu.main]]
-# name                   = "Blog"
-# weight                 = -120
-# identifier             = "blog"
-# url                    = "/blog/"
+[[menu.main]]
+name                   = "Blog"
+weight                 = -120
+identifier             = "blog"
+url                    = "/blog/"
 
 # [[menu.main]]
 # name                   = "Sobre"
@@ -70,5 +70,5 @@ highlightjs            = true
 # gravatar             = ""                # gravatar hash. see https://en.gravatar.com/site/implement/hash/. do not use in the same time as avatar
 
 # The following are DEPRECATED.
-gatracker              = "XYZ" # use googleAnalytics instead
-initials               = "ad"  # displayed on single post page; deprecated in v0.3.0.
+# gatracker              = "XYZ" # use googleAnalytics instead
+# initials               = "ad"  # displayed on single post page; deprecated in v0.3.0.
