@@ -5,18 +5,9 @@ draft: false
 slug: "livros-2018"
 ---
 
-<style>
-  img {
-    max-width: 240px !important;
-  }
-</style>
-
 A cada nova resolução de ano novo eu me imponho a meta de ler, pelo menos, 12 livros por ano. Até comprei um Kindle anos atrás pra me ajudar nessa tarefa e, apesar disso, falhei nos dois últimos anos. Porém, esse ano, alternando entre obras de ficção e de não ficção (que eram basicamente de produtividade e/ou empreendedorismo), consegui bater a meta e gostaria de compartilhar os livros com vocês. 
 
 ----
-<div>
-<a href="https://www.amazon.com.br/Harry-Potter-Philosophers-Stone-English-ebook/dp/B019PIOJYU/ref=as_li_ss_il?_encoding=UTF8&qid=1545693428&sr=1-1&linkCode=li3&tag=jeanlucasremix-20&linkId=fdb499b8d970a2dc4d5692dc5ac98807&language=pt_BR" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B019PIOJYU&Format=_SL250_&ID=AsinImage&MarketPlace=BR&ServiceVersion=20070822&WS=1&tag=jeanlucasremix-20&language=pt_BR" ></a><img src="https://ir-br.amazon-adsystem.com/e/ir?t=jeanlucasremix-20&language=pt_BR&l=li3&o=33&a=B019PIOJYU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-</div>
 
 ## Harry Potter and the Philosopher's Stone
 
@@ -25,9 +16,6 @@ Já tem algum tempo que eu lia livros de não ficção em inglês, mas decidi te
 [Amazon](https://amzn.to/2LyPzkj)
 
 ----
-<div>
-<a href="https://www.amazon.com.br/Astrof%C3%ADsica-Para-Apressados-deGrasse-Tyson-ebook/dp/B074HTTQTR/ref=as_li_ss_il?s=digital-text&ie=UTF8&qid=1545699741&sr=1-1&keywords=astrof%C3%ADsica+para+apressados&linkCode=li3&tag=jeanlucasremix-20&linkId=60a6fd70bf89e7c8dc55a74ed32436e3&language=pt_BR" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B074HTTQTR&Format=_SL250_&ID=AsinImage&MarketPlace=BR&ServiceVersion=20070822&WS=1&tag=jeanlucasremix-20&language=pt_BR" ></a><img src="https://ir-br.amazon-adsystem.com/e/ir?t=jeanlucasremix-20&language=pt_BR&l=li3&o=33&a=B074HTTQTR" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-</div>
 
 ## Astrofísica Para Apressados
 
@@ -36,9 +24,6 @@ Li esse livro no começo do ano e confesso que não lembro dos detalhes, mas, ap
 [Amazon](https://amzn.to/2QR8rRE)
 
 ----
-<div>
-<a href="https://www.amazon.com.br/andar-b%C3%AAbado-acaso-determina-nossas-ebook/dp/B008FPZPRA/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=jeanlucasremix-20&linkId=0033b9e7c90a8a6eb4869b8ddd089826&language=pt_BR" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B008FPZPRA&Format=_SL250_&ID=AsinImage&MarketPlace=BR&ServiceVersion=20070822&WS=1&tag=jeanlucasremix-20&language=pt_BR" ></a><img src="https://ir-br.amazon-adsystem.com/e/ir?t=jeanlucasremix-20&language=pt_BR&l=li3&o=33&a=B008FPZPRA" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-</div>
 
 ## O andar do bêbado: Como o acaso determina nossas vidas
 
@@ -47,9 +32,6 @@ Se não me engano, tinha começado esse livro ainda ano passado, porém sua leit
 [Amazon](https://amzn.to/2SkmHPg)
 
 ----
-<a href="https://makebook.io/" target="_blank">
-<img src="https://makebook.io/media.png">
-</a>
 
 ## MAKE: Bootstrapper's Handbook
 
@@ -58,9 +40,6 @@ Esse ano eu tentei, por meio de projetos paralelos, criar alguns produtos própr
 [Site](https://makebook.io/)
 
 ----
-<a href="https://stackingthebricks.com/just-fucking-ship/" target="_blank">
-<img src="https://stackingthebricks.com/just-fucking-ship/jfs-cover.png">
-</a>
 
 ## Just Fucking Ship
 
@@ -69,9 +48,6 @@ Confesso que quando ganhei esse livro eu não tinha muitas expectativas com rela
 [Site](https://stackingthebricks.com/just-fucking-ship/)
 
 ----
-<a href="https://justinjackson.ca/" target="_blank">
-<img src="https://justinjackson.ca/assets/brutal/justin-jackson-dots-circle.png">
-</a>
 
 ## Build & Launch
 
@@ -80,7 +56,6 @@ Esse livro é na verdade uma coleção de posts do Justin Jackson que infelizmen
 [Site](https://justinjackson.ca/)
 
 ----
-<a href="https://www.amazon.com.br/Vai-l%C3%A1-faz-empreender-digital/dp/8581743544/ref=as_li_ss_il?ie=UTF8&qid=1545704996&sr=8-1&keywords=Vai+l%C3%A1+e+faz&linkCode=li3&tag=jeanlucasremix-20&linkId=44d158ff33e10faf9e1a146cce1cfe07&language=pt_BR" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=8581743544&Format=_SL250_&ID=AsinImage&MarketPlace=BR&ServiceVersion=20070822&WS=1&tag=jeanlucasremix-20&language=pt_BR" ></a><img src="https://ir-br.amazon-adsystem.com/e/ir?t=jeanlucasremix-20&language=pt_BR&l=li3&o=33&a=8581743544" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ## Vai lá e faz
 
@@ -89,7 +64,6 @@ Esse livro é de um cara que admiro bastante e acho que isso acabou pesando minh
 [Amazon](https://amzn.to/2SpEaGp)
 
 ----
-<a href="https://www.amazon.com.br/poder-do-tempo-livre/dp/8581743889/ref=as_li_ss_il?ie=UTF8&qid=1545705022&sr=8-1&keywords=O+poder+do+tempo+livre&linkCode=li3&tag=jeanlucasremix-20&linkId=6fc9692bb963636aa3484a7f62393a07&language=pt_BR" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=8581743889&Format=_SL250_&ID=AsinImage&MarketPlace=BR&ServiceVersion=20070822&WS=1&tag=jeanlucasremix-20&language=pt_BR" ></a><img src="https://ir-br.amazon-adsystem.com/e/ir?t=jeanlucasremix-20&language=pt_BR&l=li3&o=33&a=8581743889" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ## O poder do tempo livre
 
@@ -98,7 +72,6 @@ Antes de ler esse livro, por algum motivo, eu acreditava que todo projeto parale
 [Amazon](https://amzn.to/2QMUHaq)
 
 ----
-<a href="https://www.amazon.com.br/Reinvente-sua-empresa-maneira-trabalhar-ebook/dp/B00A3CSMZK/ref=as_li_ss_il?ie=UTF8&qid=1545705040&sr=8-1&keywords=Reinvente+sua+empresa&linkCode=li3&tag=jeanlucasremix-20&linkId=9ded2bc2c302d599912f461d216ef70a&language=pt_BR" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00A3CSMZK&Format=_SL250_&ID=AsinImage&MarketPlace=BR&ServiceVersion=20070822&WS=1&tag=jeanlucasremix-20&language=pt_BR" ></a><img src="https://ir-br.amazon-adsystem.com/e/ir?t=jeanlucasremix-20&language=pt_BR&l=li3&o=33&a=B00A3CSMZK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ## Reinvente sua empresa
 
@@ -107,7 +80,6 @@ Os autores desse livro são bem famosos por terem criado um projeto incrível qu
 [Amazon](https://amzn.to/2LyAiA7)
 
 ----
-<a href="https://www.amazon.com.br/Guardi%C3%B5es-Gal%C3%A1xia-Rocket-Raccoon-Gal%C3%A1xia/dp/8542806360/ref=as_li_ss_il?s=digital-text&ie=UTF8&qid=1545705118&sr=8-1&keywords=Guardi%C3%B5es+da+Gal%C3%A1xia.+Rocket+Raccoon+e+Groot&linkCode=li3&tag=jeanlucasremix-20&linkId=241f286bf875b7913eb6634eaa466f26&language=pt_BR" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=8542806360&Format=_SL250_&ID=AsinImage&MarketPlace=BR&ServiceVersion=20070822&WS=1&tag=jeanlucasremix-20&language=pt_BR" ></a><img src="https://ir-br.amazon-adsystem.com/e/ir?t=jeanlucasremix-20&language=pt_BR&l=li3&o=33&a=8542806360" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ## Guardiões da Galáxia. Rocket Raccoon e Groot
 
@@ -116,7 +88,6 @@ Comecei a ler esse livro como uma fuga, ou um contraponto, a um outro livro muit
 [Amazon](https://amzn.to/2RdPhom)
 
 ----
-<a href="https://www.amazon.com.br/planeta-dos-macacos-Pierre-Boulle/dp/8576572133/ref=as_li_ss_il?ie=UTF8&qid=1545705137&sr=8-1&keywords=O+Planeta+dos+Macacos&linkCode=li3&tag=jeanlucasremix-20&linkId=93b84978e470ab54afef02520371baf6&language=pt_BR" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=8576572133&Format=_SL250_&ID=AsinImage&MarketPlace=BR&ServiceVersion=20070822&WS=1&tag=jeanlucasremix-20&language=pt_BR" ></a><img src="https://ir-br.amazon-adsystem.com/e/ir?t=jeanlucasremix-20&language=pt_BR&l=li3&o=33&a=8576572133" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ## O Planeta dos Macacos
 
@@ -125,7 +96,6 @@ O livro maçante que citei anteriormente continuou me perturbando e me vi obriga
 [Amazon](https://amzn.to/2SmknHG)
 
 ----
-<a href="https://www.amazon.com.br/%C3%9Altimo-Desejo-Bruxo-Geralt-R%C3%ADvia/dp/8578273745/ref=as_li_ss_il?ie=UTF8&qid=1545705193&sr=8-1&keywords=O+%C3%BAltimo+desejo&linkCode=li3&tag=jeanlucasremix-20&linkId=4ed4a76b14e194e31e799ee36623589a&language=pt_BR" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=8578273745&Format=_SL250_&ID=AsinImage&MarketPlace=BR&ServiceVersion=20070822&WS=1&tag=jeanlucasremix-20&language=pt_BR" ></a><img src="https://ir-br.amazon-adsystem.com/e/ir?t=jeanlucasremix-20&language=pt_BR&l=li3&o=33&a=8578273745" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ## O último desejo
 
