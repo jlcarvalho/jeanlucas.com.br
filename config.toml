@@ -72,3 +72,6 @@ highlightjs            = true
 # The following are DEPRECATED.
 # gatracker              = "XYZ" # use googleAnalytics instead
 # initials               = "ad"  # displayed on single post page; deprecated in v0.3.0.
+
+[markup.goldmark.renderer]
+unsafe= true
