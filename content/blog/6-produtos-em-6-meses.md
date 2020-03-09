@@ -11,7 +11,7 @@ Desde então tentei empreender várias vezes, mas na maioria das vezes as coisas
 
 Muitos desses projetos nunca viram o sol brilhar.
 
-Desde aquele primeiro site de coberta fotográfica até hoje eu desenvolvi muitos sites, aplicativos e sistemas. E com essa bagagem consegui chegar no nível de conhecimento, proficiência e autonomia que possuo hoje. Olhando pra trás eu vejo que não foi um caminho fácil. O Jean de 17 anos não conquistaria tudo que o Jean de hoje conseguiu sem praticar exaustivamente.
+Desde aquele primeiro site de cobertura fotográfica até hoje eu desenvolvi muitos sites, aplicativos e sistemas. E com essa bagagem consegui chegar no nível de conhecimento, proficiência e autonomia que possuo hoje. Olhando pra trás eu vejo que não foi um caminho fácil. O Jean de 17 anos não conquistaria tudo que o Jean de hoje conseguiu sem praticar exaustivamente.
 
 Fica mais fácil a cada dia.
 
