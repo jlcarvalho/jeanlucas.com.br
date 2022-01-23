@@ -15,7 +15,7 @@ Então escrevi um workflow para uma action de deploy e ele ficou assim:
 
 <script src="https://gist.github.com/jlcarvalho/407edac3428ecc53747304cad93b791b.js?file=deploy.yml"></script>
 
-Note que na minha Action acabei chamando apenas o comando `yarn build`, isso por quê no [meu package.json](https://github.com/jlcarvalho/guia-frontend/blob/master/package.json) o script de `build` está configurado para realizar tanto o `build` quanto o `export` do Next.js.
+Note que na minha Action acabei chamando apenas o comando `yarn build` pois no [meu package.json](https://github.com/jlcarvalho/guia-frontend/blob/master/package.json) o script de `build` está configurado para realizar tanto o `build` quanto o `export` do Next.js.
 
 ## Simples, né?
 
