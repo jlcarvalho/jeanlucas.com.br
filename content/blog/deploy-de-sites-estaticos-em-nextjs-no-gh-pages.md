@@ -49,6 +49,6 @@ Ps.: Vale ressaltar que tive problemas com arquivos referenciados pelos meus est
 
 ## Referências
 
-[https://dev.to/jameswallis/deploying-a-next-js-app-to-github-pages-24pn](https://dev.to/jameswallis/deploying-a-next-js-app-to-github-pages-24pn)
-[https://medium.com/front-end-weekly/ci-cd-with-github-actions-to-deploy-on-github-pages-73e225f8f131](https://medium.com/front-end-weekly/ci-cd-with-github-actions-to-deploy-on-github-pages-73e225f8f131)
+- [https://dev.to/jameswallis/deploying-a-next-js-app-to-github-pages-24pn](https://dev.to/jameswallis/deploying-a-next-js-app-to-github-pages-24pn)
+- [https://medium.com/front-end-weekly/ci-cd-with-github-actions-to-deploy-on-github-pages-73e225f8f131](https://medium.com/front-end-weekly/ci-cd-with-github-actions-to-deploy-on-github-pages-73e225f8f131)
 
