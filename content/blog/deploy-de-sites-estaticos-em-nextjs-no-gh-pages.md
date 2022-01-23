@@ -1,6 +1,6 @@
 ---
 title: "Deploy de sites estáticos em Next.js no GH Pages"
-date: 2022-01-22T22:00:52-03:00
+date: 2022-01-22T21:12:52-03:00
 draft: false
 slug: "deploy-de-sites-estaticos-em-nextjs-no-gh-pages"
 ---
