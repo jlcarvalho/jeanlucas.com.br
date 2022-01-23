@@ -66,3 +66,9 @@ section.main .content .markdown p {
   line-height: 1.6em;
   margin: 1.75em 0;
 }
+
+
+section.main .content .markdown img {
+  display: block;
+  margin: auto;
+}
